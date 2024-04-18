@@ -10,6 +10,6 @@ void main()
     print("Your number is equal to 10");
   }
 else { 
-  print(" Your number did meet our criteria");
+  print(" Your number didnot meet our criteria");
 }
 }
